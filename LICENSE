@@ -1,0 +1,11 @@
+Amnezia Win64 — distribution / documentation mirror
+
+The packaged application is based on the upstream open-source project:
+amnezia-vpn/amnezia-client
+https://github.com/amnezia-vpn/amnezia-client
+
+License of the upstream software: GPL-3.0.
+See the upstream repository for full license texts and source code.
+
+This repository provides Windows portable packaging, README, and release
+archives. It is not the official upstream source tree.
